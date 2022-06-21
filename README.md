@@ -1,4 +1,9 @@
 # for-loop
+  :- make a data functions
+  :- Define a array of objects
+  :- Make a table
+  :- use v-for directive for loop
+
 
 ## Project setup
 ```
